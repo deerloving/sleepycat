@@ -39,17 +39,17 @@ public class Test {
 		
 		Map<String,Object> map = new HashMap<String,Object>();
 		
-		map.put("第一名", "边境牧羊犬");
-		map.put("第二名", "贵宾犬");
-		map.put("第三名", "德国牧羊犬");
-		map.put("第四名", "金毛寻回犬");
-		map.put("第五名", "喜乐蒂牧羊犬");
-		map.put("第六名", "拉布拉多寻回犬");
-		map.put("第七名", "蝴蝶犬");
-		map.put("第八名", "罗纳威犬");
-		map.put("第九名", "澳大利亚牧羊犬");
-		map.put("第十名", "彭布罗克威尔柯基犬");
-		mapView(map);
+//		map.put("第一名", "边境牧羊犬");
+//		map.put("第二名", "贵宾犬");
+//		map.put("第三名", "德国牧羊犬");
+//		map.put("第四名", "金毛寻回犬");
+//		map.put("第五名", "喜乐蒂牧羊犬");
+//		map.put("第六名", "拉布拉多寻回犬");
+//		map.put("第七名", "蝴蝶犬");
+//		map.put("第八名", "罗纳威犬");
+//		map.put("第九名", "澳大利亚牧羊犬");
+//		map.put("第十名", "彭布罗克威尔柯基犬");
+//		mapView(map);
 		
 	}
 	
